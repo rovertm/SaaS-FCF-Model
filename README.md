@@ -77,8 +77,9 @@ The model assumes (i) subscription, (ii) license, and (iii) maintenance revenue 
 
 ## File Descriptions <a name="files"></a>
 
-* SaaS-FCF-Model.xlsx - financial model
-* SaaS-FCF-MindMap.png - mindmap
+* SaaS-FCF-Model-{DATE}.xlsx - financial model
+* SaaS-FCF-MindMap.xmind - xmind mind map
+* SaaS-FCF-MindMap.png - mind map image
 * SaaS-FCF-RevComposition.png - revenue chart
 * SaaS-FCF-IncomeFCF.png - free cash flow chart 
 
